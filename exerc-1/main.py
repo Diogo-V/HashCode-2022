@@ -1,5 +1,5 @@
 def read_input(file: str) -> list[list[str]]:
-    output: list[list[str]] = []
+    output = []
     with open(file) as f:
         for line in f:
             output.append(line.split())
