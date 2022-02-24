@@ -129,7 +129,7 @@ def build(build: list[list[str]]):
 
 
 def assigner(p, almost, can_do):
-    
+    pass
     
     
     
