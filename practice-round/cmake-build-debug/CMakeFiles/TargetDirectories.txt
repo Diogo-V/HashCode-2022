@@ -1,0 +1,3 @@
+/home/diogovenancio/Desktop/Coding/Competitions/HashCode/HashCode-2022/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/diogovenancio/Desktop/Coding/Competitions/HashCode/HashCode-2022/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/diogovenancio/Desktop/Coding/Competitions/HashCode/HashCode-2022/cmake-build-debug/CMakeFiles/HashCode_2022.dir
