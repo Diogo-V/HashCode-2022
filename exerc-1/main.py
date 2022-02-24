@@ -1,9 +1,10 @@
-def read_input(file: str) -> None:
+def read_input(file: str) -> list[list[str]]:
+    output: list[list[str]] = []
     with open(file) as f:
         for line in f:
-            out = line.split()
-            print(out)
+            output.append(line.split())
+    return output
 
 
 if __name__ == '__main__':
-    read_input("tests/a_an_example.in.txt")
+    out = read_input("tests/a_an_example.in.txt")
